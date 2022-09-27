@@ -1,6 +1,6 @@
 import React from 'react'
-import { useState } from 'react'
-import AddItem from './AddItem'
+// import { useState } from 'react'
+// import AddItem from './AddItem'
 
 // // Import Font Awesome icons for react
 // import { FaTrashAlt } from 'react-icons/fa'

@@ -2,7 +2,7 @@
 
 import React from 'react'
 // Import Font Awesome icons for react
-import { FaTrashAlt } from 'react-icons/fa'
+// import { FaTrashAlt } from 'react-icons/fa'
 import Item from './Item'
 
 const ItemList = ({ items, handleCheck, handleDelete }) => {
