@@ -8,11 +8,11 @@ This project was built by me using API, JSON Server and ReactJS. It was built as
 
 ## Technologies Used
 - CSS
-- API
+- Rest API (json server)
 - ReactJS
 
 ## Installation
-No need to install any software, just open up index.html and run it.
+No need to install any software.
 
 ## How To Use ?
 No login required.
