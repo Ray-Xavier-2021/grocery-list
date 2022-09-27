@@ -13,7 +13,7 @@ function App() {
 
   Set variable for root url
   */
-  const API_URL ='http://localhost:3500/items'
+  const API_URL ='https://grocery-list-server.glitch.me/items'
 
 
   /*
